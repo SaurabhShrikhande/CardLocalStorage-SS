@@ -1,0 +1,33 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    width: 500px;
+    line-height: 5px;
+}
+
+.container h1{
+   margin-left: 50px;
+   margin-bottom: 25px;
+   font-size: 25px;
+}
+
+#flexo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.plaintxt{
+    font-weight: lighter;
+}
+
+div h2 {
+    flex: 1;
+}
